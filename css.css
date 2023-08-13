@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: black;
+    background-color: pink;
+}
+
+table {
+    color: wheat;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+}
+
+tr {
+    min-width: fit-content;
+}
+
+th {
+    max-width: 15vw;
+    border: 1px solid wheat;
+    padding: 2px 4px;
+
+}
