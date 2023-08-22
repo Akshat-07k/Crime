@@ -3,25 +3,60 @@
     padding: 0;
 }
 
+
+
 body {
-    color: black;
-    background-color: pink;
+    color: white;
+    background-size: cover;
+    background-image: url('bg.jpeg');
+    
 }
 
-table {
-    color: wheat;
+
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+#myPlot {
+
     margin-left: auto;
     margin-right: auto;
-    font-size: x-large;
-}
-
-tr {
-    min-width: fit-content;
-}
-
-th {
-    max-width: 15vw;
-    border: 1px solid wheat;
-    padding: 2px 4px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
 
 }
+
+#butt{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s;
+
+
+}
+
+
+
+
+
