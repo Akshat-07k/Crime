@@ -44,3 +44,5 @@ Empower Your Choices: We believe that informed decisions lead to safer communiti
 </ul>
 
 <h1><u>Deployment Link  </u></h1> <a href="https://akshat-07k.github.io/Crime/html1.html">here</a>
+
+<h1><u>PPT link</u></h1><a href="https://github.com/Akshat-07k/Crime/blob/main/analyzing-the-evolution-of-crime-a-comprehensive-study-of-crime-data-from-2016-to-2021.pdf">PPT</a>
