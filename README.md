@@ -34,3 +34,11 @@ Empower Your Choices: We believe that informed decisions lead to safer communiti
                     </li>
                 </ol>
     </div>
+
+
+<h1><u>Tech Stack </u></h1>
+<ul>
+            <li>HTML</li>
+            <li>CSS 3</li>
+            <li>Java Script (ES6+)</li>
+</ul>
