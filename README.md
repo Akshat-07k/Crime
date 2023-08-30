@@ -46,3 +46,22 @@ Empower Your Choices: We believe that informed decisions lead to safer communiti
 <h1><u>Deployment Link  </u></h1> <a href="https://akshat-07k.github.io/Crime/html1.html">here</a>
 
 <h1><u>PPT link</u></h1><a href="https://github.com/Akshat-07k/Crime/blob/main/analyzing-the-evolution-of-crime-a-comprehensive-study-of-crime-data-from-2016-to-2021.pdf">PPT</a>
+<h1><u>Members Info</u></h1>
+<ul style="margin-left: 30px; line-height: 20px; ">
+                <li>
+                    Akshat Kumar    <br>
+                    Email: 21052474@kiit.ac.in
+                </li>
+                <li>
+                    Apurva Jha    <br>
+                    Email: 21052483@kiit.ac.in
+                </li>
+                <li>
+                    Dhruv kumar <br>
+                    Email: 21052495@kiit.ac.in
+                </li>
+                <li>
+                    Aaryash Kumar <br>
+                    Email: 21051871@kiit.ac.in
+                </li>
+            </ul>
