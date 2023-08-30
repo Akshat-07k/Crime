@@ -33,6 +33,10 @@ function func() {
 
     const category = document.querySelector('#category');
 
+    const option = document.createElement('option');
+    option.value = 0;
+    option.textContent = "Select a category";
+    category.appendChild(option);
     for (let i = 0; i < data[0].data.length; i++) {
         const option = document.createElement('option');
         option.value = i;
